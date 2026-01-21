@@ -1,5 +1,7 @@
 RENCANA KONTEN WPU
-
--membuat kue 
--makanan india
--makanan chines
+-javascript
+*framework javascript
+-PHP
+*laravel
+-pyhton
+*OOP
