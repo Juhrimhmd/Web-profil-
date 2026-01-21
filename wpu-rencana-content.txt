@@ -1,5 +1,7 @@
 RENCANA KONTEN WPU
+-javascript 
+*angular
+-python 
+*double linklist
+-php
 
--membuat kue 
--makanan india
--makanan chines
