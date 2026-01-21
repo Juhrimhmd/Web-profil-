@@ -1,7 +1,7 @@
 RENCANA KONTEN WPU
--javascript 
-*angular
--python 
-*double linklist
--php
-
+-javascript
+*framework javascript
+-PHP
+*laravel
+-pyhton
+*OOP
